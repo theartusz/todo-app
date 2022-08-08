@@ -8,7 +8,7 @@ jobs:
   main:
     runs-on: ubuntu-latest
     env:
-      IMAGE_NAME: todo-app
+      IMAGE_NAME: todo_app
 
     steps:
       -
